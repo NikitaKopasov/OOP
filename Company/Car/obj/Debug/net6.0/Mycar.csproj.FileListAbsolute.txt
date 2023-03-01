@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\Company\Mycar\bin\Debug\net6.0\Mycar.exe
+C:\Users\user\Downloads\Company\Mycar\bin\Debug\net6.0\Mycar.deps.json
+C:\Users\user\Downloads\Company\Mycar\bin\Debug\net6.0\Mycar.runtimeconfig.json
+C:\Users\user\Downloads\Company\Mycar\bin\Debug\net6.0\Mycar.dll
+C:\Users\user\Downloads\Company\Mycar\bin\Debug\net6.0\Mycar.pdb
+C:\Users\user\Downloads\Company\Mycar\obj\Debug\net6.0\Mycar.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Company\Mycar\obj\Debug\net6.0\Mycar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Company\Mycar\obj\Debug\net6.0\Mycar.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Company\Mycar\obj\Debug\net6.0\Mycar.AssemblyInfo.cs
+C:\Users\user\Downloads\Company\Mycar\obj\Debug\net6.0\Mycar.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Company\Mycar\obj\Debug\net6.0\Mycar.dll
+C:\Users\user\Downloads\Company\Mycar\obj\Debug\net6.0\refint\Mycar.dll
+C:\Users\user\Downloads\Company\Mycar\obj\Debug\net6.0\Mycar.pdb
+C:\Users\user\Downloads\Company\Mycar\obj\Debug\net6.0\Mycar.genruntimeconfig.cache
+C:\Users\user\Downloads\Company\Mycar\obj\Debug\net6.0\ref\Mycar.dll
